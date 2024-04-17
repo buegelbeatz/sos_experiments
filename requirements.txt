@@ -1,0 +1,6 @@
+graphviz
+imageio
+pillow
+pysam
+biopython
+pandas
