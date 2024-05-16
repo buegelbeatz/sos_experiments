@@ -2,5 +2,5 @@ graphviz
 imageio
 pillow
 pysam
-biopython
+fastaframes
 pandas

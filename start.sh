@@ -13,6 +13,7 @@ python3 -m pip install sos-papermill
 python3 -m pip install sos-r
 python3 -m pip install -r requirements.txt
 #python3 -m sos_notebook.install
+# pip list
 jupyter kernelspec list
 jupyter lab --ip='*' --NotebookApp.token='' --NotebookApp.password=''
 deactivate
